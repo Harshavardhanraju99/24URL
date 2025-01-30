@@ -35,6 +35,7 @@ Run the script:
  ```bash
 Copy
 python script_name.py
+
 Enter a valid website URL when prompted:
 
  ```bash
@@ -96,12 +97,12 @@ Disclaimer
 This tool is intended for educational and ethical purposes only. Use it responsibly and ensure you comply with the terms of service of the Wayback Machine and any other services used.
 
 Author
+
 Harsha Vardhan Raju
 
 GitHub: Harshavardhanraju99
 
 Copy
-
 ---
 
 ### Steps to Add to Your Repository:
@@ -112,4 +113,6 @@ Copy
    git add README.md
    git commit -m "Add README.md"
    git push origin main
+
+
 Now your repository will have a professional and informative README.md file! 🚀
