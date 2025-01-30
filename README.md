@@ -1,5 +1,3 @@
-
-Copy
 # 24URL Scanner
 
 A Python script to scan a website URL and retrieve archived URLs from the 24URL (web.archive.org) that match specific file extensions. The script checks the status codes of these URLs and allows the user to save the results to a file.
@@ -27,24 +25,23 @@ A Python script to scan a website URL and retrieve archived URLs from the 24URL 
    cd 24URL
 Install the required dependencies:
 
-bash
-Copy
+ ```bash
 pip install -r requirements.txt
 Alternatively, the script will automatically check and install missing dependencies when run.
 
 Usage
 Run the script:
 
-bash
+ ```bash
 Copy
 python script_name.py
 Enter a valid website URL when prompted:
 
-Copy
+ ```bash
 [?] Enter the website URL (e.g., https://google.com): https://example.com
 The script will:
 
-Fetch archived URLs from the Wayback Machine.
+Fetch archived URLs from the 24URL.
 
 Display the URLs and their status codes.
 
