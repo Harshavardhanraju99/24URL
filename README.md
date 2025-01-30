@@ -1,8 +1,8 @@
-markdown
-Copy
-# Wayback Machine URL Scanner
 
-A Python script to scan a website URL and retrieve archived URLs from the Wayback Machine (web.archive.org) that match specific file extensions. The script checks the status codes of these URLs and allows the user to save the results to a file.
+Copy
+# 24URL Scanner
+
+A Python script to scan a website URL and retrieve archived URLs from the 24URL (web.archive.org) that match specific file extensions. The script checks the status codes of these URLs and allows the user to save the results to a file.
 
 ---
 
