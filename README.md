@@ -27,5 +27,5 @@ A Python script to scan a website URL and retrieve archived URLs from the Waybac
 2.Install the required dependencies:
  ```bash
 pip install -r requirements.txt
-Install the required dependencies:
+
 Alternatively, the script will automatically check and install missing dependencies when run.
