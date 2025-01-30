@@ -24,8 +24,8 @@ A Python script to scan a website URL and retrieve archived URLs from the Waybac
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 Install the required dependencies:
-
-bash
-Copy
+2.
+ ```bash
 pip install -r requirements.txt
+Install the required dependencies:
 Alternatively, the script will automatically check and install missing dependencies when run.
